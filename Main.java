@@ -9,7 +9,7 @@ class CPU {
         {
             return 4.3;
         }
-    }
+    } 
 
     protected class RAM
     {
